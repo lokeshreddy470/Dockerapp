@@ -1,3 +1,3 @@
 FROM tomcat:8
-COPY target/*.war /usr/share/tomct/webapps/
+COPY *.war /usr/share/tomct/webapps/
 
